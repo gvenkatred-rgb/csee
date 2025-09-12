@@ -1,1 +1,1 @@
-" feture2. file information"
+" feture2. file information about c-code"
