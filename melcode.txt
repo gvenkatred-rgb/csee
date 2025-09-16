@@ -1,0 +1,1 @@
+" this is ML coed for pridiction of dieases " 
